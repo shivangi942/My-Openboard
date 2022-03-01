@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.menu{
+    border-bottom: 1px solid black;
+    padding: 0.2rem;
+    display: flex;
+    
+}
+
+.rect{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    margin: 0.5rem;
+}
+
+.circle{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    margin: 0.5rem;
+    border-radius: 50%;
+}
